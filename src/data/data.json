@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "judul": "Pelatihan Kepemimpinan Mahasiswa",
+    "tanggal": "2025-10-10",
+    "deskripsi": "Kegiatan pengembangan soft skill dan leadership untuk mahasiswa aktif."
+  },
+  {
+    "id": "2",
+    "judul": "Festival Seni dan Budaya Kampus",
+    "tanggal": "2025-11-01",
+    "deskripsi": "Ajang kreativitas mahasiswa dalam seni musik, tari, dan teater."
+  },
+  {
+    "id": "3",
+    "judul": "Seminar Nasional Informatika",
+    "tanggal": "2025-12-05",
+    "deskripsi": "Pembahasan inovasi teknologi dan AI oleh dosen dan mahasiswa informatika."
+  }
+]
