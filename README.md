@@ -1,3 +1,1 @@
-# simak
-# simakuin
 # simakuin
