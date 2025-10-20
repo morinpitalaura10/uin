@@ -1,2 +1,0 @@
-# simakuin
-# simakuin
